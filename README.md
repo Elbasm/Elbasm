@@ -1,4 +1,1 @@
 - 👋 Olá ! Eu sou  Elba Lúcia da Mata
-- 👀  Estou interessada em um estágio e /ou emprego  JR.
--  🎓 Graduanda  4º Peródo  - Tecnologia em Análise e desenvolvimento de sistemas.
-- 🌱 Atualmente estou aprendendo linguagem C # e .Net
