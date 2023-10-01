@@ -1,1 +1,1 @@
-- 👋 Olá ! Eu sou  Elba Lúcia da Mata
+- 👋 Sou Elba Lúcia da Mata
